@@ -1,4 +1,7 @@
-Fan Controller System:
+****************************************************************
+Description: Fan Controller System 
+Date       : 10/2023
+****************************************************************
 The Project aims to control the speed of a temperature controlled fan using Atmega32 with frequency 1Mhz.
 The Project is designed and implemented based on the layered architecture model as follows:
 1. Application layer
