@@ -1,0 +1,6 @@
+Fan Controller System:
+The Project aims to control the speed of a temperature controlled fan using Atmega32 with frequency 1Mhz.
+The Project is designed and implemented based on the layered architecture model as follows:
+1. Application layer
+2. HAL: LCD, LM35 Temperature Sensor, DC-Motor.
+3. MCAL: GPIO , ADC , PWM.
